@@ -1,4 +1,5 @@
-Real or Fake Job Post Detection using Machine Learning
+Real or Fake Job Post Detection using Machine Learning.
+
 Project Overview
 This project aims to classify job postings as real or fake using machine learning techniques. By analyzing various features of job postings, the model can identify patterns that distinguish legitimate job listings from fraudulent ones. The project involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment.
 
